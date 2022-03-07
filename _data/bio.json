@@ -2,10 +2,10 @@
   "basics": {
     "name": "Tyler Phelps",
     "label": "Student",
-    "picture": "https://tphelps35.github.io/images/molly.png",
+    "picture": "https://tphelps35.github.io/images/selfie.png",
     "email": "tylerktm35@gmail.com",
     "phone": "513-907-5644",
-    "website": "https://tphelps35.github.io/",
+    "website": "https://tphelps35.github.io",
     "summary": "I'm currently attending Sullivan University for a degree in Information Technology. I'm In the Army Reserves and I'm currently working for Local 70 IronWorkers",
     "location": {
       "address": "",
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "tylerphelps",
-        "url": "http://linkedin.com/in/tphelps35"
+        "url": "http://linkedin.com/in/tyler-p-10b493b4/"
       }
     ]
   },
